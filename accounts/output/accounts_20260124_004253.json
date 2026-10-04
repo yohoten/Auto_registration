@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "username": "test_user",
+    "password": "test_password",
+    "email": "test@example.com",
+    "phone": null,
+    "registration_date": "2026-01-24 00:26:26.004763",
+    "status": "active",
+    "proxy_ip": "127.0.0.1",
+    "site_id": null,
+    "validation_status": "valid",
+    "validation_time": "2023-01-01 00:00:00",
+    "validation_details": "{\"test\": \"data\"}"
+  }
+]
